@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as s}from"./app.ea9735ff.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pages/notes/js/knowledge-system/index.md"}'),a={name:"pages/notes/js/knowledge-system/index.md"};function n(o,r,c,d,p,i){return t(),s("div")}var l=e(a,[["render",n]]);export{m as __pageData,l as default};
